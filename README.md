@@ -1,2 +1,2 @@
-# window-game-text
-a simple test of making a game by moving windows.. well its not really a game
+# window-game-test
+click on the window with text and the use arrow keys to move, windows can be dragged to change thheir location.. thats it really.
